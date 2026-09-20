@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" alt="Coding Banner" />
 
   # Hi, I'm Anaya Fatima 👋
   ### 🚀 Aspiring MERN Stack Developer | Frontend Developer & Creative Coder
