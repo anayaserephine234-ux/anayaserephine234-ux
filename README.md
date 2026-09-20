@@ -1,4 +1,18 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
+
+  # Hi, I'm Anaya Fatima 👋
+  ### 🚀 Aspiring MERN Stack Developer | Frontend Developer & Creative Coder
+
+  *"On a journey to master the MERN Stack! Loving React, JavaScript, and creative web experiences."*
+
+  ---
+
+  ### 🎯 Current Goal
+  From now to next year, building full-stack MERN applications step by step. **LET'S GOOO! 🚀**
+</div>
+
+<div align="center">
 
 # Hi, I'm Anaya Fatima 👋
 ### 🚀 Aspiring MERN Stack Developer | Frontend Developer & Creative Coder
