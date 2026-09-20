@@ -43,12 +43,14 @@ From now to next year, building full-stack MERN applications step by step. **LET
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anayaserephine234-ux&show_icons=true&theme=radial&count_private=true" alt="Anaya's GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayaserephine234-ux&layout=compact&theme=radial" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/anayaserephine234-ux">
+    <img src="https://github-readme-stats.vercel.app/api?username=anayaserephine234-ux&show_icons=true&theme=nord&hide_border=false" alt="Anaya's Stats" width="400" />
+  </a>
+  <a href="https://github.com/anayaserephine234-ux">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayaserephine234-ux&layout=compact&theme=nord&hide_border=false" alt="Top Languages" width="350" />
+  </a>
+</p>
 ---
 
 ### 📂 Featured Projects
